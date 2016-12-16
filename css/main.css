@@ -1,0 +1,25 @@
+/* 
+* @Author: pengshuang
+* @Date:   2016-12-07 22:00:40
+* @Last Modified time: 2016-12-10 17:59:06
+*/
+@charset "utf-8";
+
+*{margin: 0;padding: 0;}
+
+body,html{font-size: 14px;font-family: '微软雅黑';}
+a{text-decoration: none;color: #fff;}
+ul{list-style: none;}
+ol{list-style: none;}
+
+/*清除浮动*/
+.clearfix:before,.clearfix:after{
+    content: '';
+    display: table;
+}
+.clearfix:after{
+    clear: both;
+}
+.clearfix{
+    *zoom: 1;
+}

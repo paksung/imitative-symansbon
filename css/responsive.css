@@ -1,0 +1,211 @@
+/* 
+* @Author: pengshuang
+* @Date:   2016-12-12 16:31:30
+* @Last Modified time: 2016-12-16 11:49:15
+*/
+@charset "utf-8";
+
+@media screen and (max-width:1600px){
+    #page-2>.left>li>.textWrapper{
+        padding-left: 30%;
+    }
+    #page-2>.left>li>.ortt>.textBox{
+        padding-top: 23%;
+    }
+    #page-2>.left>li>.vp>.textBox{
+        padding-top: 21%;
+    }
+    #page-2>.left>li>.wwt>.textBox{
+        padding-top: 15%;
+    }
+    #page-2>.left>li>.sv>.textBox{
+        padding-top: 20%;
+    }
+    #page-2>.left>li>.ot>.textBox{
+        padding-top: 25%;
+    }
+    #page-2>.left>li>.myVideo{
+        height: 340px;
+    }
+}
+
+@media screen and (max-width:1440px){
+    #page-2>.left>li>.textWrapper{
+        padding-left: 32%;
+    }
+    #page-2>.left>li>.ortt>.textBox{
+        padding-top: 25%;
+    }
+    #page-2>.left>li>.vp>.textBox{
+        padding-top: 23%;
+    }
+    #page-2>.left>li>.wwt>.textBox{
+        padding-top: 18%;
+    }
+    #page-2>.left>li>.ot>.textBox{
+        padding-top: 27%;
+    }
+}
+
+@media screen and (max-width:1366px){
+    .navText{
+        width: 580px;
+        height: 230px;
+    }
+    .pageNav2>.navText{
+        width: 208px;
+        height: 318px;
+    }
+    .pageNav3>.navText{
+        top: -318px!important;
+    }
+    .pageNav2>.navText>.page2Text{
+        width: 208px;
+    }
+    .navText>.carouselText>ul>li>p:first-child{
+        font-size: 28px;
+        margin-bottom: 28px;
+    }
+    .navText>.page2Text>.num{
+        width: 108px;
+    }
+    .navText>.page2Text>.num>li>img{
+        margin-top: 45px;
+    }
+    .navText>.page2Text>.ctrl{
+        width: 100px;
+    }
+    .navText>.page2Text>.ctrl>li{
+        padding-top: 105px;
+    }
+    .navText>.page2Text>.ctrl>li>.cn{
+        font-size: 16px;
+    }
+    .navText>.page2Text>.ctrl>li>.whiteLine{
+        margin: 18px 0 7px 0;
+    }
+    .navText>.page2Text>.ctrl>li>.en{
+        font-size: 12px;
+    }
+    .navText>.page2Text>.ctrl>li>ul>li{
+        font-size: 12px;
+        padding: 0 1px;
+        margin-left: 8px;
+        cursor: pointer;
+    }
+    #page-2>.left>li>.textWrapper{
+        padding-left: 28%;
+    }
+    #page-2>.left>li>.ortt>.textBox{
+        padding-top: 23%;
+    }
+    #page-2>.left>li>.vp>.textBox{
+        padding-top: 22%;
+    }
+    #page-2>.left>li>.wwt>.textBox{
+        padding-top: 15%;
+    }
+    #page-2>.left>li>.sv>.textBox{
+        padding-top: 18%;
+    }
+    #page-2>.left>li>.ot>.textBox{
+        padding-top: 25%;
+    }
+    #page-2>.left>li>.textWrapper>.textBox>span{
+        font-size: 30px;
+    }
+    #page-2>.left>li>.textWrapper>.textBox>ul>li{
+        width: 116px;
+        height: 116px;
+    }
+    .txt{
+        padding-top: 35px;
+    }
+    .txt>p:first-child{
+        font-size: 22px;
+    }
+    
+}
+
+@media screen and (max-width:1200px){
+    #page-2>.left>li>.textWrapper>.textBox>ul>li{
+        width: 106px;
+        height: 106px;
+        margin-right: 20px;
+    }
+    .txt{
+        padding-top: 30px;
+    }
+    .txt>p:first-child{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:1024px){
+    #page-2>.left>li>.textWrapper{
+        padding-left: 238px;
+        padding-right: 40px;
+    }
+    #page-2>.left>li>.ortt>.textBox{
+        padding-top: 38%;
+    }
+    #page-2>.left>li>.vp>.textBox{
+        padding-top: 38%;
+    }
+    #page-2>.left>li>.wwt>.textBox{
+        padding-top: 33%;
+    }
+    #page-2>.left>li>.sv>.textBox{
+        padding-top: 33%;
+    }
+    #page-2>.left>li>.sv>.textBox{
+        padding-top: 42%;
+    }
+    #page-2>.left>li>.textWrapper>.textBox>span{
+        font-size: 26px;
+    }
+    #page-2>.left>li>.textWrapper>.textBox>p:nth-of-type(2){
+        margin-bottom: 42px;
+    }
+
+    nav>.logobanner{
+        display: none;
+    }
+    nav>.subMenu{
+        display: none;
+    }
+    nav>.menu{
+        width: 65px;
+        height: 64px;
+        top: 10px;
+        right: 10px;
+        left: auto;
+        bottom: auto;
+        background-color: #000;
+    }
+    nav>.active{
+        height: 100%;
+        width: 33.33%;
+        right: 0;
+        top: 0;
+        background: none;
+    }
+    nav>.active>.menuContent{
+        bottom: 0!important;
+    }
+    nav>.menu>.menuButton{
+        top: 22px;
+        left: 15px;
+    }
+    nav>.menu>.menuButton>span{
+        background-color: #fff;
+    }
+
+    #page-2>.lineNav{
+        padding-bottom: 132px;
+    }
+    #page-2>.lineNav>.arrowNav{
+        bottom: 0;
+    }
+
+}
