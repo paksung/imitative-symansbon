@@ -1,7 +1,7 @@
 /* 
 * @Author: pengshuang
 * @Date:   2016-12-12 16:27:44
-* @Last Modified time: 2016-12-14 23:28:54
+* @Last Modified time: 2016-12-16 22:08:15
 */
 @charset "utf-8";
 .navText{
@@ -157,6 +157,7 @@
 
 .menu{
     position: fixed;
+    z-index: 1000;
     right: 0;
     bottom: 0;
     width: 10.4%;
